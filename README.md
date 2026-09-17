@@ -1,4 +1,4 @@
-# ShGardi-Assignment
+# Celebrity App
 
 ## 1. Overview
 App Name:
